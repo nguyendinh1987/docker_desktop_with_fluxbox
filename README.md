@@ -7,7 +7,7 @@ This project is a sample of seting up graphic UI for docker. We can manage to in
 - Build docker image
 > $ sudo ./docker_build.sh
 - Run docker
-> $ sudo ./docker_run.sh . 
+> $ sudo ./docker_run.sh .   
 After running, promt pointer of docker image is blinking in terminal and you can start working with docker environment.
 - Access docker screen using vnc/remmina: Open vnc-viewer/remmina and access address locallhost:5900 with password 1234
 > You can change password by openning /apps/Dockerfile and replace 1234 by your own password.
