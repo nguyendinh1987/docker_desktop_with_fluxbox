@@ -13,4 +13,4 @@ After running, promt pointer of docker image is blinking in terminal and you can
 > You can change password by openning /apps/Dockerfile and replace 1234 by your own password.
 
 ## References 
-Content of entrypoint.sh is learn and copy from internet and international dicussion community. Thanks for sharing.
+Content of entrypoint.sh is learned and copied from internet and international dicussion community. Thanks for sharing.
